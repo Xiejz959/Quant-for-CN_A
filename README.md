@@ -58,6 +58,12 @@ Suggested first stock candidates:
 - `600900` China Yangtze Power
 - `601899` Zijin Mining
 
+Selected stocks for the first implementation stage:
+
+- `601318` Ping An Insurance
+- `600900` China Yangtze Power
+- `601899` Zijin Mining
+
 These are intended as representative large-cap observation targets for the first development stage, not investment advice.
 
 ## Documents
